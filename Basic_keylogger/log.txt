@@ -1,0 +1,1 @@
+qa\ [Key.enter]  [Key.cmd] alok [Key.right]  [Key.enter]  [Key.ctrl_l]  [Key.backspace]  [Key.cmd] what [Key.space] is [Key.space] truth [Key.space] about [Key.enter] 
